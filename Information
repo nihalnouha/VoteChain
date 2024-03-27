@@ -1,0 +1,1 @@
+This is my code(smart cantract with solidity) for my plateform VoteChain . In this code ,you can get the history of the voters . you can see the winners. you have a possiblity to see the data of the candidates such as his image(hashed with ipfs),name,age,public adress,.also you can of course vote and others functionnalities.
