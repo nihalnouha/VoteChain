@@ -1,0 +1,23 @@
+.voterList {
+  width: 70%;
+  margin: 0 auto;
+  margin-block: 2rem;
+}
+@media screen and(max-width:35em) {
+  .voterList {
+    width: 85%;
+  }
+}
+
+.i {
+  width: 25% !important;
+  height: 25% !important;
+  margin-left: 37% !important;
+}
+.il {
+  color: white;
+  margin-left: 37% !important;
+}
+.bts {
+  padding-bottom: 50% !important;
+}
