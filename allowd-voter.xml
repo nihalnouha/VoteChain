@@ -1,0 +1,11 @@
+<div className="allowedVoter_voterInfo_paragraph__cM1cd">
+    <p>
+      Name: <span> test</span>
+    </p>
+    <p>
+      Add: <span>0x5F836df23ecc0fB1B7</span>
+    </p>
+    <p>
+      age: <span>20</span>
+    </p>
+  </div>
